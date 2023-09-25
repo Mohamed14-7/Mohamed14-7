@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Front_End Developer<br>- 📚 I'm currently learning Vue.js & TypeScript<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🔭 I’m working as Front_End Developer<br>- 📚 I'm currently learning Vue.js & TypeScript<br>- ⚡ In my free time I develope myself</p>
 
 ###
 
